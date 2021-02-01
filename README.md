@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple website project for showing how to use Git and Github together.
-Adding a line for rebasig example, then more changes from myfeature branch too.
+Adding a line for rebasig example. 
 
 ## Introduction
 
@@ -21,4 +21,4 @@ Please fork this repository and then issue Pull Request for review.
 
 ### Copyright
 
-2021 Git. Training
+2021 Git. Training. All rights reverved.
